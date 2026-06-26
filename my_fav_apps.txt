@@ -1,1 +1,1 @@
-{"Name": ["a", "b", "c"], "Category": ["x", "y", "z"]}
+{"Name": ["Instagram", "Snapchat", "Whatsapp"], "Category": ["x", "y", "z"]}
